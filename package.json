@@ -1,7 +1,7 @@
 {
   "name": "doctor-portal-api",
   "version": "1.0.0",
-  "description": "this api build for hot onion resturent website and this the third assignment programming hero course",
+  "description": "this api build for doctor portal website and this the last assignment programming hero course",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,11 +10,11 @@
   "keywords": [
     "doctor",
     "clinic",
-    "manik",
+    "Imran",
     "management",
     "dashboard"
   ],
-  "author": "Manik Roy",
+  "author": "Imran",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
